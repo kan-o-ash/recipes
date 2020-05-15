@@ -1,4 +1,4 @@
-# High-protein / Low-Fat Easy Lasagna
+# Easy High-protein / Low-Fat Lasagna
 
 [Original recipe](https://www.youtube.com/watch?v=Ii1ZDbIfsW4&t=215s)
 
@@ -46,6 +46,6 @@ Makes 10 servings
 
 Macros per serving:\
 447 calories\
-15g fat\
-28g carbs\
-50g protein
+15g fat - 135 cal\
+28g carbs - 112 cal\
+50g protein - 200 cal
