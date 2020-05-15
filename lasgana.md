@@ -15,7 +15,7 @@
 - 4 cups low-fat mozzarella
 - 1/2 cup grated parmesan cheese
 - 2 egg whites
-- basil
+- basil & oregano
     - fresh is best
 - minced garlic
 
